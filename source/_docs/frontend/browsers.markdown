@@ -67,6 +67,16 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 | [Chrome]              |                | works      |                          |
 
 There are reports that devices running with iOS prior to iOS 10, especially old iPads, are having trouble.
+## {% linkable_title iOS 9 (IPad2) %}
+| Browser               | Release        | State      | Comments                 |
+| :-------------------- |:---------------|:-----------|:-------------------------|
+| [Safari]              |                | no         | *2                       |
+| [Chrome]|             | usable with restriction |  Change from Mobile to Desktop View *1|
+| [icabMobile]          | usable with restriction |  Change the browser ID to something other than Safari / Webkit *1|
+| [Opera] Mini          |                | no     | *2                           |
+*1 Error in layout on the round sensors and in the configuration pages
+*2 layout on the round sensors and in the configuration pages are ok, but many other objets are wrong (colors, full opacity)
+
 
 [Chrome]: https://www.google.com/chrome/
 [Chromium]: https://www.chromium.org/
@@ -86,4 +96,4 @@ There are reports that devices running with iOS prior to iOS 10, especially old 
 [Tor Browser]: https://www.torproject.org/
 [Uzbl]: http://www.uzbl.org/
 [w3m]: http://w3m.sourceforge.net/
-
+[icabMobile]: http://www.icab-mobile.de/
